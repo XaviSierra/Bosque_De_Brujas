@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 8616685848737228372, guid: c5efc39a8aaf6e64ea40e9ad573e9b47,
         type: 3}
       propertyPath: m_Name
-      value: PlayerCapsule
+      value: PlayerCapsule Variant
       objectReference: {fileID: 0}
     - target: {fileID: 8997996947095583982, guid: c5efc39a8aaf6e64ea40e9ad573e9b47,
         type: 3}
@@ -69,3 +69,33 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c5efc39a8aaf6e64ea40e9ad573e9b47, type: 3}
+--- !u!1 &1327695619285584069 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8616685848737228372, guid: c5efc39a8aaf6e64ea40e9ad573e9b47,
+    type: 3}
+  m_PrefabInstance: {fileID: 7347748144135941777}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8068711685792543232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327695619285584069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7be94d3526bd3c44add98408b5a6679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hints: 5
+  hintsFound: 0
+  worldsVisited: 0
+  Salida: {fileID: 0}
+  Zorraguila: 0
+  Patrilote: 0
+  Elefzal: 0
+  Pinguoso: 0
+  Zocosa: 0
+  Torpiena: 0
+  Tortiguana: 0
+  Tiervo: 0
