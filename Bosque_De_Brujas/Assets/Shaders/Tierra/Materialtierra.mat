@@ -57,10 +57,10 @@ Material:
     - _Normals: 3
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RefractionAmount: 0.17
+    - _RefractionAmount: -0.02
     - _Smoothness: 0.063
     m_Colors:
     - _Color: {r: 0.3018868, g: 0.07679212, b: 0.026771078, a: 1}
     - _FresnelColor: {r: 0.07457141, g: 0.030294634, b: 0.009321426, a: 1}
-    - _IceTiling: {r: 0.1, g: 0.1, b: 0, a: 0}
+    - _IceTiling: {r: 0.3, g: 0.3, b: 0, a: 0}
   m_BuildTextureStacks: []
